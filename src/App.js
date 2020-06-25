@@ -5,8 +5,8 @@ import Spinner from "./Spinner";
 const App = () => {
   // Api keys
   let config = {
-    APP_ID: "YOUR APP ID",
-    APP_KEY: "YOUR APP KEY",
+    APP_ID: "85914f4d",
+    APP_KEY: "6a9555d59910c034ab812cfac63c65e0",
   };
 
   // Set default value
