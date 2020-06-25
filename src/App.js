@@ -56,7 +56,7 @@ const App = () => {
           Search recipe app
         </h1>
         <div className="row mt-3">
-          <div className="col-10">
+          <div className="col-lg-10">
             <input
               type="text"
               className="form-control shadow-none"
@@ -65,7 +65,7 @@ const App = () => {
               onChange={updateSearch}
             />
           </div>
-          <div className="col-2 text-right">
+          <div className="col-lg-2 text-center button-search">
             <button type="submit" className="btn btn-success">
               Search recipe
             </button>

@@ -12,7 +12,7 @@ const Recipe = ({ title, calories, image, ingredients, url }) => {
                   <li>{ingredient.text}</li>
               ))}
           </ol>
-          <div className="d-flex justify-content-between align-items-center">
+          <div className="d-flex justify-content-center align-items-center">
             <div className="btn-group">
               <button disabled className="btn btn-sm btn-dark text-white">
                 {Math.round(calories * 100) / 100} calories
@@ -21,7 +21,6 @@ const Recipe = ({ title, calories, image, ingredients, url }) => {
                 Try this recipe
               </a>
             </div>
-            <small className="text-muted">{ingredients.length} ingredients</small>
           </div>
         </div>
       </div>
