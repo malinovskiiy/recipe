@@ -7,7 +7,6 @@ export default function Spinner() {
         className="lds-roller"
         style={{
           display: "flex",
-          justifyContent: "center",
           margin: "3rem auto",
         }}
       >
