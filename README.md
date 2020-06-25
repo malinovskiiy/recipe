@@ -1,6 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## If you want to run this app you sholud get your app id and app key on edamam.com
+
+You can enter it in App.js in config object
 
 ## Available Scripts
 
