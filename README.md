@@ -1,4 +1,4 @@
-## Deployed at https://f4ilfish.github.io/recipe/
+## Deployed at https://malinovskii.github.io/recipe/
 
 ## Available Scripts
 
