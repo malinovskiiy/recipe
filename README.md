@@ -1,5 +1,3 @@
-## Deployed at https://malinovskii.github.io/recipe/
-
 ## Available Scripts
 
 In the project directory, you can run:
